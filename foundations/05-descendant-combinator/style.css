@@ -1,0 +1,15 @@
+/* yellow background, red text, a font size of 20px, and center aligned. */
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Other options in the solution that I didn't even think about
+
+.container .text
+div .text
+.container p
+
+*/
